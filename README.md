@@ -1,6 +1,6 @@
 <p> Projeto DIO Jogo da Memoria - Memory Game </p>
-https://user-images.githubusercontent.com/106353112/178647317-a7d9534b-0821-4f67-ab9c-7f7efcdcd5f7.gif
 
+![gif final_JM](https://user-images.githubusercontent.com/106353112/178647317-a7d9534b-0821-4f67-ab9c-7f7efcdcd5f7.gif)
 
 ## 📕 About
 
